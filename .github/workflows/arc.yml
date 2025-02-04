@@ -1,4 +1,4 @@
-name: Basic
+name: Actions Runner Controller
 
 # Controls when the workflow will run
 on:
